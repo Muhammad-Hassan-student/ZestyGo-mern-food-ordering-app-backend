@@ -1,0 +1,5 @@
+//NOTE -  BACKEND
+//SECTION - SET UP
+STEP 1 - npm init -y
+STEP 2 - npm i express cors dotenv mongodb mongoose
+STEP 3 - npm i ts-node typescript nodemon @types/express @types/cors @types/node --save-dev
